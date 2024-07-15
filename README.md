@@ -1,1 +1,2 @@
 # ConversorDeMonedas
+En este proyecto se utilizó la biblioteca Gson, empleando la clase HttpClient para realizar solicitudes a la API de tasas de cambio y obtener datos esenciales. La clase HttpRequest se usó para configurar y personalizar las solicitudes a la API, mientras que la interfaz HttpResponse permitió gestionar las respuestas recibidas. Las clases proporcionadas por Gson, como JsonParser y JsonObject, facilitaron el acceso a las distintas propiedades de la respuesta JSON.
